@@ -1,0 +1,10 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 5px;
+    font-family: lora;
+    font-weight: bold;
+    font-size: 120%;
+    text-align: center;
+}
